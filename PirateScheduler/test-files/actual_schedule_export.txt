@@ -1,0 +1,2 @@
+CSC604,Introduction to software testing,001,3,abramsa,MW,910,1100
+CSC333,UX Design,007,4,kubiak,A

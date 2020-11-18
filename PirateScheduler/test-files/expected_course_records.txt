@@ -1,0 +1,3 @@
+CSC604,Introduction to software testing,001,3,abramsa,MW,910,1100
+CSC604,Introduction to software testing,002,4,azizi,MW,1120,1310
+CSC604,Introduction to software testing,003,3,smith,A

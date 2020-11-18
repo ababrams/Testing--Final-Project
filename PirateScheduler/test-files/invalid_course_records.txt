@@ -1,0 +1,13 @@
+Introduction to software testing,001,4,azizi,MW,1330,1445
+CSC604,001,4,sesmith5,MW,1330,1445
+CSC604,Introduction to software testing,4,azizi,MW,1330,1445
+CSC604,Introduction to software testing,001,azizi,MW,1330,1445
+CSC604,Introduction to software testing,001,4,MW,1330,1445
+CSC604,Introduction to software testing,001,4,azizi,1330,1445
+CSC604,Introduction to software testing,4,azizi,MW,1445
+CSC604,Introduction to software testing,001,4,azizi,MW,1330
+C6,Introduction to software testing,001,4,azizi,MW,1330,1445
+CSC604,,001,4,abramsa,MW,1330,1445
+CSC604,Introduction to software testing,3,azizi,MW,1120,1310
+CSC604,Introduction to software testing,00178,4,clery,TH,1330,1445
+CSC604,Introduction to software testing,006767,4, marcelin,MW,1445,1445

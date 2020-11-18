@@ -1,0 +1,9 @@
+CSC604,Introduction to software testing,001,3,abramsa,MW,0910,1100
+CSC604,Introduction to software testing,002,3,azizi,MW,1120,1310
+CSC604,Introduction to software testing,003,3,smith,TH,1120,1310
+CSC604,Introduction to software testing,004,3,jackson,TH,0910,1100
+CSC604,Introduction to software testing,005,4,clery,TH,1330,1445
+CSC333,UX Design,006,4,marcelin,MW,1330,1445
+CSC333,UX Design,007,4,kubiak,A
+CSC645,Discrete Mathematics,001,3,clery,MWF,935,1025
+CSC650,Art History,001,3,marcelin,MH,1500,1600
